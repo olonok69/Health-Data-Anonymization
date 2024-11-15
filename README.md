@@ -7,4 +7,4 @@ Full Explanation of this Notebook you can find it in my youtube Channel
 [https://www.youtube.com/@themachinelearningengineer](https://www.youtube.com/@themachinelearningengineer?sub_confirmation=1)
 
 ### Video In Spanish https://youtu.be/32Os_Mku4wY
-### Video In English
+### Video In English https://youtu.be/R6Mm1uKzKv8
